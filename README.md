@@ -1,2 +1,1 @@
-# Crowd_Estimation
-This project uses Random Forest for both 🟦 regression and 🟧 classification on walking-speed data. It predicts continuous speed using R² and RMSE 📉, and also classifies speeds into above/below average 🎯. Includes preprocessing, splitting, training, and evaluation—perfect for beginners in ML 🤖✨.
+This project focuses on 🟦 Exploratory Data Analysis (EDA) and 🟧 data visualization using walking-speed data. It involves data cleaning, preprocessing, and analyzing patterns through charts 📊 to understand speed distribution and trends. Perfect for beginners to learn data analysis and visualization concepts ✨
